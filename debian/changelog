@@ -1,0 +1,5 @@
+minio (2.0.1) unstable; urgency=low
+
+  * Initial release.
+
+ -- Guillaume Gauvrit <guillaume@gandi.net>  Thu, 06 Oct 2016 14:36:00 +0200

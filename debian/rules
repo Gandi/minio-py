@@ -1,0 +1,13 @@
+#!/usr/bin/make -f
+# -*- makefile -*-
+
+export DH_VERBOSE=1
+
+
+override_dh_auto_build:
+	# Ignore the makefile on the root of the repository
+	rm Makefile
+	dh_auto_build
+
+%:
+	dh $@ --with python2
