@@ -1,3 +1,9 @@
+minio (2.0.1-1) unstable; urgency=low
+
+  * Fix pytz dependency name.
+
+ -- Guillaume Gauvrit <guillaume@gandi.net>  Thu, 06 Oct 2016 14:36:00 +0200
+
 minio (2.0.1) unstable; urgency=low
 
   * Initial release.

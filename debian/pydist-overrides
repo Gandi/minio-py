@@ -1,2 +1,2 @@
 urllib3 python-urllib3; PEP386
-pytz python-pytz; PEP386
+pytz python-tz; PEP386
